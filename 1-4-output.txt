@@ -1,0 +1,18 @@
+RNN - Activation: relu, Epochs: 50, Test Loss (MSE): 0.01216394267976284, Test MAE: 0.08830934017896652
+LSTM - Activation: relu, Epochs: 50, Test Loss (MSE): 0.011968574486672878, Test MAE: 0.08826996386051178
+--------------------------------------------------
+RNN - Activation: tanh, Epochs: 50, Test Loss (MSE): 0.013361874036490917, Test MAE: 0.09234697371721268
+LSTM - Activation: tanh, Epochs: 50, Test Loss (MSE): 0.011811734177172184, Test MAE: 0.08673316240310669
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 0.0119607700034976, Test MAE: 0.08777891099452972
+LSTM - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 0.011814838275313377, Test MAE: 0.08711832761764526
+--------------------------------------------------
+RNN - Activation: relu, Epochs: 100, Test Loss (MSE): 0.011569682508707047, Test MAE: 0.08637689054012299
+LSTM - Activation: relu, Epochs: 100, Test Loss (MSE): 0.011256316676735878, Test MAE: 0.08538533002138138
+--------------------------------------------------
+RNN - Activation: tanh, Epochs: 100, Test Loss (MSE): 0.011583811603486538, Test MAE: 0.08614929020404816
+LSTM - Activation: tanh, Epochs: 100, Test Loss (MSE): 0.011898385360836983, Test MAE: 0.08692929148674011
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 0.012746461667120457, Test MAE: 0.08998998254537582
+LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 0.01176173985004425, Test MAE: 0.0865148976445198
+--------------------------------------------------

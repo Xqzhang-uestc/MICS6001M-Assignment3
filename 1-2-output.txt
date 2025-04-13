@@ -1,0 +1,104 @@
+Activation Function: relu
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 4.622729363745748e-07
+In-Sample MAE: 0.000500788795761764
+Out-of-Sample Loss (MSE): 5.88596037687239e-07
+Out-of-Sample MAE: 0.0006266143172979355
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 3.6435804418033513e-07
+In-Sample MAE: 0.00048713324940763414
+Out-of-Sample Loss (MSE): 3.6350581922306446e-07
+Out-of-Sample MAE: 0.0004913151497021317
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 32-32
+In-Sample Loss (MSE): 2.3589545889990404e-06
+In-Sample MAE: 0.0010692207142710686
+Out-of-Sample Loss (MSE): 2.232209908470395e-06
+Out-of-Sample MAE: 0.0010590821038931608
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 64-32-32
+In-Sample Loss (MSE): 4.1340737766404345e-07
+In-Sample MAE: 0.0004971917951479554
+Out-of-Sample Loss (MSE): 4.5062807885187794e-07
+Out-of-Sample MAE: 0.0005456313374452293
+Epochs: 100
+--------------------------------------------------
+Activation Function: tanh
+Model Structure: 64-32-32
+In-Sample Loss (MSE): 4.075850938534131e-06
+In-Sample MAE: 0.0016225099097937346
+Out-of-Sample Loss (MSE): 4.647476544050733e-06
+Out-of-Sample MAE: 0.0017178390407934785
+Epochs: 100
+--------------------------------------------------
+Activation Function: tanh
+Model Structure: 32-32
+In-Sample Loss (MSE): 5.723943559132749e-06
+In-Sample MAE: 0.002038273960351944
+Out-of-Sample Loss (MSE): 5.5973823691601865e-06
+Out-of-Sample MAE: 0.0020098527893424034
+Epochs: 100
+--------------------------------------------------
+Activation Function: tanh
+Model Structure: 32-32
+In-Sample Loss (MSE): 5.3743224270874634e-06
+In-Sample MAE: 0.0019528964767232537
+Out-of-Sample Loss (MSE): 5.800445251225028e-06
+Out-of-Sample MAE: 0.0020472402684390545
+Epochs: 200
+--------------------------------------------------
+Activation Function: tanh
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 2.022169610427227e-05
+In-Sample MAE: 0.0033054316882044077
+Out-of-Sample Loss (MSE): 1.5091847672010772e-05
+Out-of-Sample MAE: 0.002873271470889449
+Epochs: 100
+--------------------------------------------------
+Activation Function: sigmoid
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 0.00016958254855126143
+In-Sample MAE: 0.010406089946627617
+Out-of-Sample Loss (MSE): 0.0001341628812951967
+Out-of-Sample MAE: 0.009452739730477333
+Epochs: 100
+--------------------------------------------------
+Activation Function: sigmoid
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 6.101642065914348e-05
+In-Sample MAE: 0.0062232837080955505
+Out-of-Sample Loss (MSE): 4.664726657210849e-05
+Out-of-Sample MAE: 0.005769799463450909
+Epochs: 200
+--------------------------------------------------
+Activation Function: sigmoid
+Model Structure: 32-32
+In-Sample Loss (MSE): 0.00019426399376243353
+In-Sample MAE: 0.012155299074947834
+Out-of-Sample Loss (MSE): 0.00020654825493693352
+Out-of-Sample MAE: 0.012905585579574108
+Epochs: 200
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 5.544022201320331e-07
+In-Sample MAE: 0.000600745843257755
+Out-of-Sample Loss (MSE): 6.766803721802717e-07
+Out-of-Sample MAE: 0.0006984295323491096
+Epochs: 200
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 1.5867352658460732e-06
+In-Sample MAE: 0.0010849640239030123
+Out-of-Sample Loss (MSE): 1.5194236766546965e-06
+Out-of-Sample MAE: 0.00106622907333076
+Epochs: 200
+--------------------------------------------------

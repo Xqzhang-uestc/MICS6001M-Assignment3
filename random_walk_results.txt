@@ -1,0 +1,212 @@
+MLP - Structure: [32, 32], Activation: relu, Epochs: 50, Test Loss (MSE): 0.9268784523010254, Test MAE: 0.7587487101554871
+MLP - Structure: [32, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 0.9653986096382141, Test MAE: 0.7856794595718384
+MLP - Structure: [32, 32], Activation: relu, Epochs: 200, Test Loss (MSE): 1.1946940422058105, Test MAE: 0.8676249980926514
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 50, Test Loss (MSE): 2.243426561355591, Test MAE: 1.147756576538086
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.1837100982666016, Test MAE: 0.8518365621566772
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.471267580986023, Test MAE: 0.9973359107971191
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 3.1960794925689697, Test MAE: 1.3384875059127808
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.1836475133895874, Test MAE: 0.868602991104126
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0358612537384033, Test MAE: 0.8228800892829895
+MLP - Structure: [64, 32], Activation: relu, Epochs: 50, Test Loss (MSE): 1.001128077507019, Test MAE: 0.7955968379974365
+MLP - Structure: [64, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 0.9408141374588013, Test MAE: 0.7659299969673157
+MLP - Structure: [64, 32], Activation: relu, Epochs: 200, Test Loss (MSE): 0.974934995174408, Test MAE: 0.7819193005561829
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 50, Test Loss (MSE): 2.400751829147339, Test MAE: 1.2127494812011719
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.125152349472046, Test MAE: 0.8497793674468994
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.0885974168777466, Test MAE: 0.8297348022460938
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 2.419651746749878, Test MAE: 1.163030743598938
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.1852070093154907, Test MAE: 0.8507688045501709
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 0.9930177927017212, Test MAE: 0.7985358238220215
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 0.9109897613525391, Test MAE: 0.7475346326828003
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.0037579536437988, Test MAE: 0.7944796085357666
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.0101624727249146, Test MAE: 0.7976621985435486
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 4.503259658813477, Test MAE: 1.4865727424621582
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.9708055257797241, Test MAE: 1.1090792417526245
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.3989319801330566, Test MAE: 0.9305060505867004
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 19.579538345336914, Test MAE: 2.9778969287872314
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 8.819347381591797, Test MAE: 1.9871931076049805
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0033994913101196, Test MAE: 0.8003491759300232
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 0.9425658583641052, Test MAE: 0.7522503733634949
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 0.897269606590271, Test MAE: 0.7406736016273499
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 0.9943646192550659, Test MAE: 0.7857296466827393
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 5.356532096862793, Test MAE: 1.581699013710022
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.6264883279800415, Test MAE: 0.9980917572975159
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.232418179512024, Test MAE: 0.8905884623527527
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 22.87310791015625, Test MAE: 3.2380247116088867
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.79863703250885, Test MAE: 1.0015803575515747
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.095658302307129, Test MAE: 0.848582923412323
+RNN - Activation: relu, Epochs: 50, Test Loss (MSE): 1.4989315271377563, Test MAE: 0.9848863482475281
+RNN - Activation: relu, Epochs: 100, Test Loss (MSE): 1.573745608329773, Test MAE: 1.002578854560852
+RNN - Activation: relu, Epochs: 200, Test Loss (MSE): 1.5976691246032715, Test MAE: 1.011606216430664
+RNN - Activation: tanh, Epochs: 50, Test Loss (MSE): 2.056119918823242, Test MAE: 1.0565224885940552
+RNN - Activation: tanh, Epochs: 100, Test Loss (MSE): 1.74420964717865, Test MAE: 1.056778907775879
+RNN - Activation: tanh, Epochs: 200, Test Loss (MSE): 2.0318596363067627, Test MAE: 1.1184403896331787
+RNN - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.862252116203308, Test MAE: 1.0468558073043823
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.537062406539917, Test MAE: 0.9732828736305237
+RNN - Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.5008914470672607, Test MAE: 0.9679407477378845
+LSTM - Activation: relu, Epochs: 50, Test Loss (MSE): 1.566704511642456, Test MAE: 0.9923955798149109
+LSTM - Activation: relu, Epochs: 100, Test Loss (MSE): 1.482677698135376, Test MAE: 0.9653205871582031
+LSTM - Activation: relu, Epochs: 200, Test Loss (MSE): 1.5889331102371216, Test MAE: 0.9907147288322449
+LSTM - Activation: tanh, Epochs: 50, Test Loss (MSE): 1.6956552267074585, Test MAE: 1.0231819152832031
+LSTM - Activation: tanh, Epochs: 100, Test Loss (MSE): 1.6324998140335083, Test MAE: 1.0023353099822998
+LSTM - Activation: tanh, Epochs: 200, Test Loss (MSE): 1.6168464422225952, Test MAE: 1.022838830947876
+LSTM - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.8760035037994385, Test MAE: 1.0463179349899292
+LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.511277198791504, Test MAE: 0.9641658663749695
+LSTM - Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.468817114830017, Test MAE: 0.9528409242630005
+MLP - Structure: [32, 32], Activation: relu, Epochs: 50, Test Loss (MSE): 1.0466305017471313, Test MAE: 0.8214378952980042
+MLP - Structure: [32, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 0.9627102613449097, Test MAE: 0.8004456162452698
+MLP - Structure: [32, 32], Activation: relu, Epochs: 200, Test Loss (MSE): 0.9832929968833923, Test MAE: 0.8012721538543701
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 50, Test Loss (MSE): 2.601530075073242, Test MAE: 1.2598614692687988
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.1658755540847778, Test MAE: 0.8643266558647156
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.2014535665512085, Test MAE: 0.8749462962150574
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 6.510309219360352, Test MAE: 1.8325191736221313
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.1583586931228638, Test MAE: 0.8514479994773865
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 0.9877988696098328, Test MAE: 0.8173868060112
+MLP - Structure: [64, 32], Activation: relu, Epochs: 50, Test Loss (MSE): 0.9745361804962158, Test MAE: 0.7975488901138306
+MLP - Structure: [64, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 1.0314154624938965, Test MAE: 0.8035879731178284
+MLP - Structure: [64, 32], Activation: relu, Epochs: 200, Test Loss (MSE): 0.9877402782440186, Test MAE: 0.7940892577171326
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 50, Test Loss (MSE): 1.849573016166687, Test MAE: 1.0443311929702759
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.1547306776046753, Test MAE: 0.8537490367889404
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.3063527345657349, Test MAE: 0.9325101375579834
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 9.292365074157715, Test MAE: 1.9873298406600952
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.2790672779083252, Test MAE: 0.8955941200256348
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 0.9690927267074585, Test MAE: 0.8012877702713013
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 1.0240509510040283, Test MAE: 0.8186206221580505
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.0059254169464111, Test MAE: 0.8042560815811157
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.096088171005249, Test MAE: 0.8372007608413696
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 8.622016906738281, Test MAE: 1.9685616493225098
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.5091261863708496, Test MAE: 0.9258716702461243
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.177880883216858, Test MAE: 0.8660631775856018
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 23.49700164794922, Test MAE: 2.9723904132843018
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 4.58638858795166, Test MAE: 1.4689565896987915
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0646687746047974, Test MAE: 0.8384104371070862
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 1.1665953397750854, Test MAE: 0.8753148913383484
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.063821792602539, Test MAE: 0.8362640142440796
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.048466682434082, Test MAE: 0.8061068654060364
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 7.847006797790527, Test MAE: 1.8535058498382568
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.4811923503875732, Test MAE: 0.9199499487876892
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.5765835046768188, Test MAE: 1.0424875020980835
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 29.274948120117188, Test MAE: 3.3014349937438965
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 2.760972023010254, Test MAE: 1.2234474420547485
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0314290523529053, Test MAE: 0.8316267132759094
+RNN - Activation: relu, Epochs: 50, Test Loss (MSE): 2.0795297622680664, Test MAE: 1.1490752696990967
+RNN - Activation: relu, Epochs: 100, Test Loss (MSE): 1.7246944904327393, Test MAE: 1.0486561059951782
+RNN - Activation: relu, Epochs: 200, Test Loss (MSE): 1.9677001237869263, Test MAE: 1.106687307357788
+RNN - Activation: tanh, Epochs: 50, Test Loss (MSE): 2.4496042728424072, Test MAE: 1.1153959035873413
+RNN - Activation: tanh, Epochs: 100, Test Loss (MSE): 1.6549386978149414, Test MAE: 1.0124682188034058
+RNN - Activation: tanh, Epochs: 200, Test Loss (MSE): 1.7248220443725586, Test MAE: 1.035705804824829
+RNN - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.9433878660202026, Test MAE: 1.0702320337295532
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.5619851350784302, Test MAE: 0.9979488253593445
+RNN - Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.6473547220230103, Test MAE: 1.0175608396530151
+LSTM - Activation: relu, Epochs: 50, Test Loss (MSE): 1.6041984558105469, Test MAE: 1.007430076599121
+LSTM - Activation: relu, Epochs: 100, Test Loss (MSE): 2.171766519546509, Test MAE: 1.1807506084442139
+LSTM - Activation: relu, Epochs: 200, Test Loss (MSE): 1.6718316078186035, Test MAE: 1.0234736204147339
+LSTM - Activation: tanh, Epochs: 50, Test Loss (MSE): 1.6970783472061157, Test MAE: 1.0248546600341797
+LSTM - Activation: tanh, Epochs: 100, Test Loss (MSE): 1.6654335260391235, Test MAE: 1.0253428220748901
+LSTM - Activation: tanh, Epochs: 200, Test Loss (MSE): 1.712120771408081, Test MAE: 1.0351758003234863
+LSTM - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.8062044382095337, Test MAE: 1.0576837062835693
+LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.5657970905303955, Test MAE: 0.9935437440872192
+LSTM - Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.6846686601638794, Test MAE: 1.0294450521469116
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 1.092451810836792, Test MAE: 0.8348608613014221
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 0.9687901139259338, Test MAE: 0.7879213094711304
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.2520432472229004, Test MAE: 0.896818995475769
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 400, Test Loss (MSE): 1.0794212818145752, Test MAE: 0.8218196630477905
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 12.763051986694336, Test MAE: 2.0450408458709717
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 3.386605739593506, Test MAE: 1.1303919553756714
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 2.0875914096832275, Test MAE: 0.9980155825614929
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 400, Test Loss (MSE): 2.477055549621582, Test MAE: 1.2681180238723755
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 52.96725082397461, Test MAE: 4.143005847930908
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 4.260893821716309, Test MAE: 1.2655304670333862
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0235580205917358, Test MAE: 0.7914175987243652
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.0622111558914185, Test MAE: 0.8108747005462646
+MLP - Structure: [32, 32], Activation: relu, Epochs: 50, Test Loss (MSE): 1.1168230772018433, Test MAE: 0.8259595632553101
+MLP - Structure: [32, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 1.103851079940796, Test MAE: 0.8297561407089233
+MLP - Structure: [32, 32], Activation: relu, Epochs: 200, Test Loss (MSE): 1.1090087890625, Test MAE: 0.8300496935844421
+MLP - Structure: [32, 32], Activation: relu, Epochs: 400, Test Loss (MSE): 1.5759400129318237, Test MAE: 0.9675542116165161
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 50, Test Loss (MSE): 1.7099930047988892, Test MAE: 0.9956310987472534
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.367855429649353, Test MAE: 0.935504138469696
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.5285226106643677, Test MAE: 1.0025488138198853
+MLP - Structure: [32, 32], Activation: tanh, Epochs: 400, Test Loss (MSE): 1.8390775918960571, Test MAE: 1.0738433599472046
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.30613374710083, Test MAE: 0.890300452709198
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.2241764068603516, Test MAE: 0.8627369403839111
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.1376609802246094, Test MAE: 0.8505192399024963
+MLP - Structure: [32, 32], Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.004551887512207, Test MAE: 0.807715892791748
+MLP - Structure: [64, 32], Activation: relu, Epochs: 50, Test Loss (MSE): 1.2938898801803589, Test MAE: 0.888217568397522
+MLP - Structure: [64, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 1.3208575248718262, Test MAE: 0.9183908700942993
+MLP - Structure: [64, 32], Activation: relu, Epochs: 200, Test Loss (MSE): 1.2405576705932617, Test MAE: 0.8767914175987244
+MLP - Structure: [64, 32], Activation: relu, Epochs: 400, Test Loss (MSE): 1.464485764503479, Test MAE: 0.9663397073745728
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 50, Test Loss (MSE): 1.6463531255722046, Test MAE: 1.0223643779754639
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.1901295185089111, Test MAE: 0.8845934271812439
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.3352527618408203, Test MAE: 0.9261820912361145
+MLP - Structure: [64, 32], Activation: tanh, Epochs: 400, Test Loss (MSE): 1.6801761388778687, Test MAE: 1.010502576828003
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.2126150131225586, Test MAE: 0.8671747446060181
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.1140567064285278, Test MAE: 0.8141640424728394
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0478969812393188, Test MAE: 0.801635205745697
+MLP - Structure: [64, 32], Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.057559609413147, Test MAE: 0.8222102522850037
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 1.105690360069275, Test MAE: 0.8496145606040955
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.092543363571167, Test MAE: 0.823113739490509
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.172892451286316, Test MAE: 0.8674039244651794
+MLP - Structure: [64, 32, 16], Activation: relu, Epochs: 400, Test Loss (MSE): 1.4383950233459473, Test MAE: 0.9279807806015015
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 1.3047999143600464, Test MAE: 0.9028062224388123
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.4861427545547485, Test MAE: 0.9611564874649048
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.7035638093948364, Test MAE: 1.0261154174804688
+MLP - Structure: [64, 32, 16], Activation: tanh, Epochs: 400, Test Loss (MSE): 1.7810896635055542, Test MAE: 1.051113247871399
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.7807393074035645, Test MAE: 1.034654140472412
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.062363624572754, Test MAE: 0.8058211207389832
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0422894954681396, Test MAE: 0.7970780730247498
+MLP - Structure: [64, 32, 16], Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.0468850135803223, Test MAE: 0.8100754618644714
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 1.1300818920135498, Test MAE: 0.8500317335128784
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.2051934003829956, Test MAE: 0.886322557926178
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.2572094202041626, Test MAE: 0.876233696937561
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 400, Test Loss (MSE): 1.5369977951049805, Test MAE: 0.978277862071991
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 1.6337611675262451, Test MAE: 1.0118852853775024
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.4834966659545898, Test MAE: 0.9448863863945007
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.6328798532485962, Test MAE: 1.0293874740600586
+MLP - Structure: [32, 32, 16], Activation: tanh, Epochs: 400, Test Loss (MSE): 1.809651494026184, Test MAE: 1.1038182973861694
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.87644362449646, Test MAE: 1.0397086143493652
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.1857061386108398, Test MAE: 0.8571550250053406
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0588315725326538, Test MAE: 0.8084605932235718
+MLP - Structure: [32, 32, 16], Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.0612680912017822, Test MAE: 0.8104069828987122
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 50, Test Loss (MSE): 1.2815155982971191, Test MAE: 0.9120519757270813
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.1529381275177002, Test MAE: 0.8349969387054443
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 200, Test Loss (MSE): 1.2795662879943848, Test MAE: 0.8840200901031494
+MLP - Structure: [64, 32, 32, 16], Activation: relu, Epochs: 400, Test Loss (MSE): 1.6442960500717163, Test MAE: 1.0257279872894287
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 50, Test Loss (MSE): 1.3081591129302979, Test MAE: 0.889751136302948
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 100, Test Loss (MSE): 1.3432344198226929, Test MAE: 0.8965873718261719
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 200, Test Loss (MSE): 1.5677180290222168, Test MAE: 1.0032670497894287
+MLP - Structure: [64, 32, 32, 16], Activation: tanh, Epochs: 400, Test Loss (MSE): 1.6336411237716675, Test MAE: 1.0158159732818604
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.6926801204681396, Test MAE: 1.0024574995040894
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.1486002206802368, Test MAE: 0.8522447347640991
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.0277400016784668, Test MAE: 0.7955774068832397
+MLP - Structure: [64, 32, 32, 16], Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.1878238916397095, Test MAE: 0.8378419280052185
+RNN - Activation: relu, Epochs: 50, Test Loss (MSE): 2.0421082973480225, Test MAE: 1.0996475219726562
+RNN - Activation: relu, Epochs: 100, Test Loss (MSE): 2.0435869693756104, Test MAE: 1.1137295961380005
+RNN - Activation: relu, Epochs: 200, Test Loss (MSE): 2.0774500370025635, Test MAE: 1.1458277702331543
+RNN - Activation: relu, Epochs: 400, Test Loss (MSE): 2.102783441543579, Test MAE: 1.0956228971481323
+RNN - Activation: tanh, Epochs: 50, Test Loss (MSE): 2.127831220626831, Test MAE: 1.1561875343322754
+RNN - Activation: tanh, Epochs: 100, Test Loss (MSE): 2.4582576751708984, Test MAE: 1.2361233234405518
+RNN - Activation: tanh, Epochs: 200, Test Loss (MSE): 2.3660759925842285, Test MAE: 1.2027392387390137
+RNN - Activation: tanh, Epochs: 400, Test Loss (MSE): 1.9924057722091675, Test MAE: 1.097007155418396
+RNN - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.6565855741500854, Test MAE: 0.9897305369377136
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.5845390558242798, Test MAE: 0.9636514782905579
+RNN - Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.7329496145248413, Test MAE: 1.0362929105758667
+RNN - Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.5682992935180664, Test MAE: 0.9836651682853699
+LSTM - Activation: relu, Epochs: 50, Test Loss (MSE): 1.7814429998397827, Test MAE: 1.0468494892120361
+LSTM - Activation: relu, Epochs: 100, Test Loss (MSE): 1.6803122758865356, Test MAE: 1.0168118476867676
+LSTM - Activation: relu, Epochs: 200, Test Loss (MSE): 1.3202370405197144, Test MAE: 0.8971614837646484
+LSTM - Activation: relu, Epochs: 400, Test Loss (MSE): 1.3849374055862427, Test MAE: 0.8980578184127808
+LSTM - Activation: tanh, Epochs: 50, Test Loss (MSE): 1.6078325510025024, Test MAE: 1.012311339378357
+LSTM - Activation: tanh, Epochs: 100, Test Loss (MSE): 1.1022655963897705, Test MAE: 0.80720055103302
+LSTM - Activation: tanh, Epochs: 200, Test Loss (MSE): 1.101815938949585, Test MAE: 0.7900152206420898
+LSTM - Activation: tanh, Epochs: 400, Test Loss (MSE): 1.074745774269104, Test MAE: 0.7951900959014893
+LSTM - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 1.6642193794250488, Test MAE: 0.9974980354309082
+LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.66239333152771, Test MAE: 1.006814956665039
+LSTM - Activation: sigmoid, Epochs: 200, Test Loss (MSE): 1.5771186351776123, Test MAE: 0.9777947664260864
+LSTM - Activation: sigmoid, Epochs: 400, Test Loss (MSE): 1.5952786207199097, Test MAE: 0.9901922345161438
+MLP - Structure: [32, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 1.3803797960281372, Test MAE: 0.9591854214668274
+Ljung-Box p-value: 0.7628, Residuals White Noise: True
+MLP - Structure: [32, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 5.433935165405273, Test MAE: 2.043219566345215
+Ljung-Box p-value: 0.6022, Residuals White Noise: True
+MLP - Structure: [32, 32], Activation: relu, Epochs: 100, Test Loss (MSE): 1.1298881769180298, Test MAE: 0.8643022179603577
+Ljung-Box p-value: 0.9983, Residuals White Noise: True
+MLP - Structure: [32, 32, 16], Activation: relu, Epochs: 100, Test Loss (MSE): 1.4428632259368896, Test MAE: 0.9758099317550659
+Ljung-Box p-value: 0.7440, Residuals White Noise: True

@@ -1,0 +1,24 @@
+RNN - Test Loss (MSE): 2.823480281222146e-05, Test MAE: 0.004382987041026354
+LSTM - Test Loss (MSE): 1.6580793271714356e-06, Test MAE: 0.0009960700990632176
+--------------------------------------------------
+RNN - Activation: tanh, Epochs: 50, Test Loss (MSE): 4.87252520997572e-07, Test MAE: 0.0005563332233577967
+LSTM - Activation: tanh, Epochs: 50, Test Loss (MSE): 5.585308826994151e-06, Test MAE: 0.0018834915244951844
+--------------------------------------------------
+RNN - Activation: relu, Epochs: 50, Test Loss (MSE): 3.2016041586757638e-06, Test MAE: 0.001399333938024938
+LSTM - Activation: relu, Epochs: 50, Test Loss (MSE): 3.452587179708644e-06, Test MAE: 0.0015966756036505103
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 2.7024061637348495e-05, Test MAE: 0.004506202414631844
+LSTM - Activation: sigmoid, Epochs: 50, Test Loss (MSE): 2.7417334422352724e-05, Test MAE: 0.004465363919734955
+--------------------------------------------------
+RNN - Activation: relu, Epochs: 100, Test Loss (MSE): 5.5305458772636484e-06, Test MAE: 0.0014249631203711033
+LSTM - Activation: relu, Epochs: 100, Test Loss (MSE): 1.1074555459344992e-06, Test MAE: 0.0008011195459403098
+--------------------------------------------------
+RNN - Activation: tanh, Epochs: 100, Test Loss (MSE): 1.755270204739645e-07, Test MAE: 0.0003412348451092839
+LSTM - Activation: tanh, Epochs: 100, Test Loss (MSE): 3.0820228857919574e-07, Test MAE: 0.00048106283065862954
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.0040850611403584e-05, Test MAE: 0.0025224385317415
+LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 8.166583938873373e-06, Test MAE: 0.0024956604465842247
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 8.46011062094476e-06, Test MAE: 0.0024788505397737026
+LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 4.773382534040138e-05, Test MAE: 0.006434147711843252
+--------------------------------------------------
