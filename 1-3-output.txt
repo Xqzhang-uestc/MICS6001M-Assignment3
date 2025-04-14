@@ -22,3 +22,12 @@ LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 8.166583938873373e-06,
 RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 8.46011062094476e-06, Test MAE: 0.0024788505397737026
 LSTM - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 4.773382534040138e-05, Test MAE: 0.006434147711843252
 --------------------------------------------------
+RNN - Activation: tanh, Epochs: 100, Test Loss (MSE): 6.013168558638426e-07, Test MAE: 0.0006264307885430753
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 3.994083090219647e-05, Test MAE: 0.005721230059862137
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 9.58726232056506e-05, Test MAE: 0.009387512691318989
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 9.21987430047011e-06, Test MAE: 0.0024942494928836823
+--------------------------------------------------
+RNN - Activation: sigmoid, Epochs: 100, Test Loss (MSE): 1.2690313269558828e-05, Test MAE: 0.0032211996149271727
+--------------------------------------------------

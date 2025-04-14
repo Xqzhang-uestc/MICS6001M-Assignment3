@@ -6,7 +6,7 @@ from split import split_data
 from model_structure import build_model_from_structure
 from draw import draw_plots
 from statistical_test import perform_statistical_tests
-
+import matplotlib.pyplot as plt
 # Generate the equal-difference series with white noise
 np.random.seed(42)  # For reproducibility
 data = np.linspace(0, 1, 200, endpoint=False)  # 200 points, step = 0.005
@@ -70,3 +70,29 @@ with open(output_file, "a") as f:  # Use "a" mode to append to the file
     f.write(f"Out-of-Sample MAE: {test_mae}\n")
     f.write(f"Epochs: {epoch}\n")
     f.write("-" * 50 + "\n")  # Add a separator for clarity
+
+y_train_pred = model.predict(X_train)
+y_test_pred = model.predict(X_test)
+# Plot In-Sample Prediction
+
+plt.figure(figsize=(12, 6))
+plt.plot(y_train[:50], label="True Value", color="blue")
+plt.plot(y_train_pred[:50], label="Predicted Value", color="orange", linestyle="--")
+plt.title("In-Sample Prediction")
+plt.xlabel("Sample Index")
+plt.ylabel("Value")
+plt.legend()
+plt.savefig("pics/prediction/noisy_equal_difference_in_sample.png")
+# plt.show()
+plt.close()
+
+plt.figure(figsize=(12, 6))
+plt.plot(y_test[:50], label="True Value", color="blue")
+plt.plot(y_test_pred[:50], label="Predicted Value", color="orange", linestyle="--")
+plt.title("Out-of-Sample Prediction")
+plt.xlabel("Sample Index")
+plt.ylabel("Value")
+plt.legend()
+plt.savefig("pics/prediction/noisy_equal_difference_out_sample.png")
+# plt.show()
+plt.close()

@@ -150,3 +150,43 @@ Out-of-Sample Loss (MSE): 0.0002408266591373831
 Out-of-Sample MAE: 0.01420146506279707
 Epochs: 100
 --------------------------------------------------
+Activation Function: relu
+Model Structure: 32-32-16
+In-Sample Loss (MSE): 1.799996240947621e-08
+In-Sample MAE: 8.080469706328586e-05
+Out-of-Sample Loss (MSE): 9.90652448962237e-09
+Out-of-Sample MAE: 6.578955799341202e-05
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 32-32-16
+In-Sample Loss (MSE): 2.5271624792821967e-08
+In-Sample MAE: 7.182097033364698e-05
+Out-of-Sample Loss (MSE): 3.872540688121262e-08
+Out-of-Sample MAE: 8.788164996076375e-05
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 32-32-16
+In-Sample Loss (MSE): 4.977476351086807e-07
+In-Sample MAE: 0.0002218233421444893
+Out-of-Sample Loss (MSE): 3.04482128399286e-08
+Out-of-Sample MAE: 0.00013480521738529205
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 32-32-16
+In-Sample Loss (MSE): 2.7236538358010876e-07
+In-Sample MAE: 0.0002244079951196909
+Out-of-Sample Loss (MSE): 2.360540918289189e-07
+Out-of-Sample MAE: 0.00023681166931055486
+Epochs: 100
+--------------------------------------------------
+Activation Function: sigmoid
+Model Structure: 64-32
+In-Sample Loss (MSE): 8.987040928332135e-05
+In-Sample MAE: 0.008047867566347122
+Out-of-Sample Loss (MSE): 7.844580977689475e-05
+Out-of-Sample MAE: 0.007955052889883518
+Epochs: 100
+--------------------------------------------------

@@ -102,3 +102,19 @@ Out-of-Sample Loss (MSE): 1.5194236766546965e-06
 Out-of-Sample MAE: 0.00106622907333076
 Epochs: 200
 --------------------------------------------------
+Activation Function: relu
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 5.14074599777814e-07
+In-Sample MAE: 0.0005687480443157256
+Out-of-Sample Loss (MSE): 5.189517082726525e-07
+Out-of-Sample MAE: 0.0005991177749820054
+Epochs: 100
+--------------------------------------------------
+Activation Function: relu
+Model Structure: 64-32-16
+In-Sample Loss (MSE): 1.3357179113882012e-06
+In-Sample MAE: 0.0006004953174851835
+Out-of-Sample Loss (MSE): 4.843382157559972e-07
+Out-of-Sample MAE: 0.0005553312366828322
+Epochs: 200
+--------------------------------------------------
